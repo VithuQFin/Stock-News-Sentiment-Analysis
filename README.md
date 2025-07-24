@@ -28,7 +28,7 @@ NLP/
 ├── requirements.txt # Python dependencies
 └── .gitignore # Files excluded from Git
 
----
+```
 
 ## 🔁 Processing Pipeline
 
