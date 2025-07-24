@@ -1,4 +1,4 @@
-# 📰 Stock News Sentiment Analysis with FinBERT & Event Study
+# 📰 Stock News Sentiment Analysis with FinBERT
 
 This project combines **web scraping**, **NLP-based sentiment analysis**, and **financial data**. It scrapes recent headlines from Finviz, analyzes their sentiment using a fine-tuned BERT model (FinBERT).
 
