@@ -1,0 +1,14 @@
+# Caches et fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de données
+data/processed/
+*.csv
+*.log
+
+# IDEs et fichiers système
+.vscode/
+.DS_Store
+Thumbs.db
